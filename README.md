@@ -22,3 +22,10 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
      2. visit beaches.
 4. After exploring return to kansas.
 
+* In Kerala Food is very famous, try out the following:
+    * Appam With Ishtu 
+    * Nadan Kozhi Varuthathu
+* Explore the beaches.
+    * Fort Kochi Beach
+    * cherai Beach
+* Munnar is good for trecking.
