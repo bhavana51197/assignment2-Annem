@@ -29,3 +29,5 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
     * Fort Kochi Beach
     * cherai Beach
 * Munnar is good for trecking.
+
+<hr/>
