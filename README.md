@@ -11,7 +11,7 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 **Be patient**
 **VS code**
 
---------------------------------------------------
+<hr/>
 
 #### **ordered and unordered list** ####
 
