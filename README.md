@@ -6,7 +6,7 @@ At **India’s** southwestern-most tip, along the Arabian Sea coast, is the stat
 
 This state, which is often referred to by its affectionate nickname, **God’s Own Country**.
 
-kerala is a wonderful and beautiful mix of diverse cultures and cuisines. 
+kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 
 **Be patient**
 
@@ -33,4 +33,4 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 
 <hr/>
 
-[AboutMe file link](https://github.com/bhavana51197/assignment2-Annem/blob/main/AboutMe.md)
+ [AboutMe file link](https://github.com/bhavana51197/assignment2-Annem/blob/main/AboutMe.md)
