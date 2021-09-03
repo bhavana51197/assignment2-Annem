@@ -34,3 +34,17 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 <hr/>
 
  [AboutMe file link](https://github.com/bhavana51197/assignment2-Annem/blob/main/AboutMe.md)
+
+ <hr/>
+
+ ### Table for the food recommended ###
+
+ In this below table i suggested few of the famous food items present in the different places across the india
+ and i have clearly mentioned the food price. 
+
+ |food                 | food place | Price($) |
+ |---------------------| ---------- | -------- |
+ | Appam with ishtu    | Kerala     | 6.84     |
+ | Mutton Kola Urundai | Tamilnadu  | 10.00    |
+ | Chicken Biryani     | Hyderabad  | 12.00    |
+ | Chow Chow Bhath     | Karanataka | 5.90     |
