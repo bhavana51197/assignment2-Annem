@@ -58,9 +58,7 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 
  > If you cannot do great things, do small things in a great way.<br/>
  _~William Shakespeare_                                                        
- > If you look at what you have in life, you’ll always have more.
- >> 
- > If you look at what you don’t have in life, you’ll never have enough.<br/>
+ > If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.<br/>
  _~Robert Ervin Howard_
 
  <hr/>
