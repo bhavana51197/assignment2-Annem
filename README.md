@@ -59,7 +59,7 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
  > If you cannot do great things, do small things in a great way.<br/>
  _~William Shakespeare_                                                        
  > If you look at what you have in life, you’ll always have more.
- >> Nested!
+ >> 
  > If you look at what you don’t have in life, you’ll never have enough.<br/>
  _~Robert Ervin Howard_
 
@@ -69,7 +69,7 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 
  > Breadth-first search (BFS) is an algorithm for searching a tree data structure for a node that satisfies a given property.
  > It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. 
- >> Nested!
+ >> 
  > Extra memory, usually a queue, is needed to keep track of the child nodes that were encountered but not yet explored.
 
  vector<vector<int>> adj;  // adjacency list representation
