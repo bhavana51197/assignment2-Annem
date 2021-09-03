@@ -20,6 +20,9 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 2. Board the flight from kansas to India(Kochi airport).
 3. Book the hotel from yatra app.
      1. visit munnar.
+        1. taste season mangoes.
+        2. Try cocunt drink.
+        3. Taste banana chips.
      2. visit beaches.
 4. After exploring return to kansas.
 
@@ -48,3 +51,14 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
  | Mutton Kola Urundai | Tamilnadu  | 10.00    |
  | Chicken Biryani     | Hyderabad  | 12.00    |
  | Chow Chow Bhath     | Karanataka | 5.90     |
+
+ <hr/>
+
+ ### Pithy Quotes ###
+
+ > If you cannot do great things, do small things in a great way.
+ # William Shakespeare #                                                          
+ > If you look at what you have in life, you’ll always have more.
+ > Nested!
+ > If you look at what you don’t have in life, you’ll never have enough.
+ # Robert Ervin Howard #
