@@ -66,10 +66,12 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
  ### Code Fencing ###
 
  > Breadth-first search (BFS) is an algorithm for searching a tree data structure for a node that satisfies a given property.
- > It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. 
- >> 
+ > It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level.  
  > Extra memory, usually a queue, is needed to keep track of the child nodes that were encountered but not yet explored.
 
+ [Code description link](https://en.wikipedia.org/wiki/Breadth-first_search#:~:text=Breadth%2Dfirst%20search%20(BFS),at%20the%20next%20depth%20level.)
+
+```
  vector<vector<int>> adj;  // adjacency list representation
  int n; // number of nodes
  int s; // source vertex
@@ -107,39 +109,3 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
 
  [Algorithm link](https://cp-algorithms.com/graph/breadth-first-search.html)
 
- > Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures.
- > The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
-
- ```
-
- vector<vector<int>> adj; // graph represented as an adjacency list
- int n; // number of vertices
-
- vector<bool> visited;
-
- void dfs(int v) {
-    visited[v] = true;
-    for (int u : adj[v]) {
-        if (!visited[u])
-            dfs(u);
-    }
- }
- vector<vector<int>> adj; // graph represented as an adjacency list
- int n; // number of vertices
-
- vector<int> color;
-
- vector<int> time_in, time_out;
- int dfs_timer = 0;
-
- void dfs(int v) {
-    time_in[v] = dfs_timer++;
-    color[v] = 1;
-    for (int u : adj[v])
-        if (color[u] == 0)
-            dfs(u);
-    color[v] = 2;
-    time_out[v] = dfs_timer++;
- }
- ```
-  [Code link](https://cp-algorithms.com/graph/depth-first-search.html)
