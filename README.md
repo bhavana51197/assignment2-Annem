@@ -57,8 +57,8 @@ kerala is a wonderful and beautiful mix of diverse cultures and cuisines.
  ### Pithy Quotes ###
 
  > If you cannot do great things, do small things in a great way.
- # William Shakespeare #                                                          
+ _William Shakespeare_                                                        
  > If you look at what you have in life, you’ll always have more.
  > Nested!
  > If you look at what you don’t have in life, you’ll never have enough.
- # Robert Ervin Howard #
+ _Robert Ervin Howard_
